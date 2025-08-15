@@ -1,4 +1,3 @@
-<img width="535" height="820" alt="Screenshot 2025-08-15 233314" src="https://github.com/user-attachments/assets/21b09ac8-321d-4618-9fc3-06b00a63ba8b" /># ☕ Java Junction – Café Billing System with MongoDB Integration
 
 **Java Junction** is a Python-based café billing application built using **Tkinter** for GUI and **MongoDB** for backend storage.  
 It automates the order-taking and billing process for cafés or restaurants, while keeping a detailed sales record in the database.
